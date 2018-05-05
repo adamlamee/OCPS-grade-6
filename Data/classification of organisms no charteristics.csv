@@ -1,0 +1,76 @@
+organism,kingdom,phylum,class,order
+badger,animalia,chordata,mammalia,carnivora
+bat,animalia,chordata,mammalia,chiroptera
+bear,animalia,chordata,mammalia,ursidae
+beaver,animalia,chordata,mammalia,rodentia
+bee,animalia,arthropoda,insecta,hymenoptera
+black widow,animalia,arthropoda,arachnid,araneae
+bobcat,animalia,chordata,mammalia,carnivora
+butterfly,animalia,arthropoda,insecta,lepidoptera
+cat,animalia,chordata,mammalia,carnivora
+chicken,animalia,chordata,aves,galliformes
+chimpanzee,animalia,chordata,mammalia,primates
+chipmunk,animalia,chordata,mammalia,rodentia
+clownfish,animalia,chordata,actinopterygii,perciformes
+cow,animalia,chordata,mammalia,artiodactyla
+crocodile,animalia,chordata,reptilia,crocodilia
+death cap,fungi,basidiomycota,agaricomycetes,agaricales
+deer,animalia,chordata,mammalia,artiodactyla
+dog,animalia,chordata,mammalia,carnivora
+dolphin,animalia,chordata,mammalia,cetacea
+dragonfly,animalia,arthropoda,insecta,odonata
+duck,animalia,chordata,aves,anseriformes
+eagle,animalia,chordata,aves,falconiformes
+flamingo,animalia,chordata,aves,phoenicopteriformes
+flea,animalia,arthropoda,insecta,siphonaptera
+fly,animalia,arthropoda,insecta,diptera
+fox,animalia,chordata,mammalia,carnivora
+giraffe,animalia,chordata,mammalia,artiodactyla
+goose,animalia,chordata,aves,anseriformes
+hamster,animalia,chordata,mammalia,rodentia
+hippopotamus,animalia,chordata,mammalia,artiodactyla
+kangaroo,animalia,chordata,mammalia,diprotodontia
+lemur,animalia,chordata,mammalia,primates
+lizard,animalia,chordata,reptilia,squamata
+mold,fungi,zygomycota,mucoromycotina,mucorales
+mosquito,animalia,arthropoda,insecta,diptera
+moss,plantae,bryophyta,polytrichaceae,bromeliales
+moth,animalia,arthropoda,insecta,lepidoptera
+mouse,animalia,chordata,mammalia,rodentia
+oak tree,plantae,tracheophyta,magnoliopsida,fagales
+opossum,animalia,chordata,mammalia,didelphimorphia
+otter,animalia,chordata,mammalia,carnivora
+owl,animalia,chordata,aves,strigiformes
+palm tree,plantae,tracheophyta,liliopsida,arecales
+panda,animalia,chordata,mammalia,carnivora
+penguin,animalia,chordata,aves,sphenisciformes
+pig,animalia,chordata,mammalia,artiodactyla
+pine tree,plantae,coniferaphya,pinopsida,pinales
+poison ivy,plantae,embryophyta,magnoliopsida�,sapindales
+porcupine,animalia,chordata,mammalia,rodentia
+rabbit,animalia,chordata,mammalia,lagomorpha
+raccoon,animalia,chordata,mammalia,carnivora
+rattlesnake,animalia,chordata,reptilia,squamata
+red panda,animalia,chordata,mammalia,carnivora
+rhinoceros,animalia,chordata,mammalia,perissodactyla
+salamander,animalia,chordata,amphibia,urodela
+scorpion,animalia,arthropoda,arachnida,scorpiones
+seal,animalia,chordata,mammalia,carnivora
+shark,animalia,chordata,chondrichthyes,lamniformes
+skunk,animalia,chordata,mammalia,carnivora
+sloth,animalia,chordata,mammalia,pilosa
+snail,animalia,mullusca,gastropoda,pulmonata
+squirrel,animalia,chordata,mammalia,rodentia
+tree frog,animalia,chordata,amphibia,anura
+tucan,animalia,chordata,aves,piciformes
+turkey,animalia,chordata,aves,galliformes
+turtle,animalia,chordata,reptilia,testudines
+vulture,animalia,chordata,aves,accipitriformes
+wasp,animalia,arthropoda,insecta,hymenoptera
+weasel,animalia,chordata,mammalia,carnivora
+whale,animalia,chordata,mammalia,cetartiodactyla
+white mushroom,fungi,basidiomycota,agaricomycetes,agaricales
+wolf,animalia,chordata,mammalia,carnivora
+woodpecker,animalia,chordata,aves,piciformes
+worm,animalia,annelida,oligochaeta,megadrilacea
+yeast,fungi,ascomycota,saccharomycetes�,saccharomycetales

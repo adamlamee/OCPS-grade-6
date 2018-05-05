@@ -1,0 +1,76 @@
+organism,eukaryotic,prokaryotic,kingdom,phylum,class,order,vertebrate,fur,feathers,scales,wings,fins,marine,terrestrial,carnivore,herbivore,omnivore,decomposer,photosynthesis,autotroph,multicellular,poisonous
+badger,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+bat,yes,no,animalia,chordata,mammalia,chiroptera,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+bear,yes,no,animalia,chordata,mammalia,ursidae,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+beaver,yes,no,animalia,chordata,mammalia,rodentia,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+bee,yes,no,animalia,arthropoda,insecta,hymenoptera,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no
+black widow,yes,no,animalia,arthropoda,arachnid,araneae,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+bobcat,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+butterfly,yes,no,animalia,arthropoda,insecta,lepidoptera,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no
+cat,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+chicken,yes,no,animalia,chordata,aves,galliformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+chimpanzee,yes,no,animalia,chordata,mammalia,primates,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+chipmunk,yes,no,animalia,chordata,mammalia,rodentia,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+clownfish,yes,no,animalia,chordata,actinopterygii,perciformes,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,no
+cow,yes,no,animalia,chordata,mammalia,artiodactyla,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+crocodile,yes,no,animalia,chordata,reptilia,crocodilia,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+death cap,yes,no,fungi,basidiomycota,agaricomycetes,agaricales,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,yes
+deer,yes,no,animalia,chordata,mammalia,artiodactyla,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+dog,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+dolphin,yes,no,animalia,chordata,mammalia,cetacea,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no
+dragonfly,yes,no,animalia,arthropoda,insecta,odonata,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+duck,yes,no,animalia,chordata,aves,anseriformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+eagle,yes,no,animalia,chordata,aves,falconiformes,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+flamingo,yes,no,animalia,chordata,aves,phoenicopteriformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+flea,yes,no,animalia,arthropoda,insecta,siphonaptera,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+fly,yes,no,animalia,arthropoda,insecta,diptera,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+fox,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+giraffe,yes,no,animalia,chordata,mammalia,artiodactyla,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+goose,yes,no,animalia,chordata,aves,anseriformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+hamster,yes,no,animalia,chordata,mammalia,rodentia,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+hippopotamus,yes,no,animalia,chordata,mammalia,artiodactyla,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+kangaroo,yes,no,animalia,chordata,mammalia,diprotodontia,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+lemur,yes,no,animalia,chordata,mammalia,primates,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+lizard,yes,no,animalia,chordata,reptilia,squamata,yes,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,no
+mold,yes,no,fungi,zygomycota,mucoromycotina,mucorales,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,no
+mosquito,yes,no,animalia,arthropoda,insecta,diptera,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+moss,yes,no,plantae,bryophyta,polytrichaceae,bromeliales,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no
+moth,yes,no,animalia,arthropoda,insecta,lepidoptera,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no
+mouse,yes,no,animalia,chordata,mammalia,rodentia,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+oak tree,yes,no,plantae,tracheophyta,magnoliopsida,fagales,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no
+opossum,yes,no,animalia,chordata,mammalia,didelphimorphia,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+otter,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no
+owl,yes,no,animalia,chordata,aves,strigiformes,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+palm tree,yes,no,plantae,tracheophyta,liliopsida,arecales,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no
+panda,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+penguin,yes,no,animalia,chordata,aves,sphenisciformes,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+pig,yes,no,animalia,chordata,mammalia,artiodactyla,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+pine tree,yes,no,plantae,coniferaphya,pinopsida,pinales,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no
+poison ivy,yes,no,plantae,embryophyta,magnoliopsida�,sapindales,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes
+porcupine,yes,no,animalia,chordata,mammalia,rodentia,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+rabbit,yes,no,animalia,chordata,mammalia,lagomorpha,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+raccoon,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+rattlesnake,yes,no,animalia,chordata,reptilia,squamata,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+red panda,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+rhinoceros,yes,no,animalia,chordata,mammalia,perissodactyla,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+salamander,yes,no,animalia,chordata,amphibia,urodela,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+scorpion,yes,no,animalia,arthropoda,arachnida,scorpiones,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+seal,yes,no,animalia,chordata,mammalia,carnivora,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,no
+shark,yes,no,animalia,chordata,chondrichthyes,lamniformes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no
+skunk,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+sloth,yes,no,animalia,chordata,mammalia,pilosa,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+snail,yes,no,animalia,mullusca,gastropoda,pulmonata,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no
+squirrel,yes,no,animalia,chordata,mammalia,rodentia,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+tree frog,yes,no,animalia,chordata,amphibia,anura,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+tucan,yes,no,animalia,chordata,aves,piciformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+turkey,yes,no,animalia,chordata,aves,galliformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+turtle,yes,no,animalia,chordata,reptilia,testudines,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+vulture,yes,no,animalia,chordata,aves,accipitriformes,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no
+wasp,yes,no,animalia,arthropoda,insecta,hymenoptera,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+weasel,yes,no,animalia,chordata,mammalia,carnivora,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+whale,yes,no,animalia,chordata,mammalia,cetartiodactyla,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no
+white mushroom,yes,no,fungi,basidiomycota,agaricomycetes,agaricales,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,no
+wolf,yes,no,animalia,chordata,mammalia,carnivora,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+woodpecker,yes,no,animalia,chordata,aves,piciformes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no
+worm,yes,no,animalia,annelida,oligochaeta,megadrilacea,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,no
+yeast,yes,no,fungi,ascomycota,saccharomycetes�,saccharomycetales,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no
