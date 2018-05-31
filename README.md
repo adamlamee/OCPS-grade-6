@@ -1,9 +1,6 @@
 # Coding in Comprehensive Science 1
 Jupyter notebooks in development for use in Orange County Public Schools for 6th Grade Coding in Comprehensive Science 1.
 
-## TODO
-- update notebook content, align to standards
-
 ## Using these notebooks
 
 #### Working locally
